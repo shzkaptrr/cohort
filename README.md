@@ -82,9 +82,6 @@ Pelanggan yang belanja >1 kali di bulan pertama memiliki:
 - **Lifetime value lebih besar** (bertahan hingga bulan ke-10)
 - **Lower churn risk** sepanjang customer journey
 
-**Golden Rule:**
-> "First repeat purchase dalam 30 hari = predictor terkuat loyalitas jangka panjang"
-
 ### Temuan 5: February 2010 Anomaly
 Cohort Februari 2010 adalah yang **paling healthy**:
 - Retensi konsisten >30% hingga bulan ke-10
@@ -157,21 +154,4 @@ python cohort_analysis.py
    - Membandingkan retensi pelanggan Antusias vs Coba-coba
    - Membuktikan pentingnya repeat purchase di bulan pertama
 
-## 📝 Notes
-
-- Data coverage: Februari - Desember 2010
-- Sample size: ~4,000 transaksi dari 200+ unique customers
-- Analysis framework: Time-based + Behavior-based cohort
-
-## 🚀 Next Steps
-
-1. **Predictive Modeling**: Build ML model untuk prediksi churn di hari ke-30
-2. **RFM Analysis**: Kombinasikan dengan Recency-Frequency-Monetary segmentation
-3. **Lifetime Value Calculation**: Hitung CLV untuk setiap cohort
-4. **A/B Testing Framework**: Test strategi retensi secara sistematis
-
----
-
-**Author**: Data Analytics Team  
-**Last Updated**: December 2024  
 **Tools Used**: Python, Pandas, Seaborn, Matplotlib
