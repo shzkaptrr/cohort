@@ -77,7 +77,7 @@ Pelanggan yang bertahan hingga **bulan ke-5** cenderung menjadi pelanggan loyal:
 - Check-in rutin untuk pelanggan bulan ke-4
 
 ### Temuan 4: 2x Retention from Repeat Purchases
-Pelanggan yang belanja >1 kali di bulan pertama memiliki:
+Pelanggan yang belanja >10 kali di bulan pertama memiliki:
 - **Retensi 2x lebih tinggi** (40.6% vs 23.7% di bulan-1)
 - **Lifetime value lebih besar** (bertahan hingga bulan ke-10)
 - **Lower churn risk** sepanjang customer journey
